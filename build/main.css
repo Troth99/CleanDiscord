@@ -75,6 +75,13 @@ body {
 .form-3gdLxP:before {
     display: none !important
 }
+	.button-3bklZh.selected-69H4ua,
+.button-3bklZh:hover,
+.clickable-11uBi-:hover,
+.selected-BYpGTS {
+    color: #fff;
+    background-color: var(----video-screen-button-background-hovor-color:)
+}
 
 .header-2o-2hj,
 .searchBar-3TnChZ {
