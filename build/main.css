@@ -970,25 +970,6 @@ body {
     background-color: var(--themeColor2)
 }
 
-.bd-addon-list .bd-card-footer button,
-.bd-button,
-.bd-modal-wrapper .footer button,
-.bd-updatebtn,
-.button-f2h6uQ,
-.lookFilled-yCfaCM,
-.lookInverted-2mDUMi {
-    border-radius: 12px;
-    transition: all .2s ease
-}
-
-.bd-addon-list .bd-card-footer button:hover,
-.bd-button:hover,
-.bd-modal-wrapper .footer button:hover,
-.bd-updatebtn:hover,
-.button-f2h6uQ:hover,
-.lookFilled-yCfaCM:hover,
-.lookInverted-2mDUMi:hover {
-    border-radius: 8px
 }
 
 .button-12Fmur.enabled-9OeuTA:hover {
