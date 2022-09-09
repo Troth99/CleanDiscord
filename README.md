@@ -1,0 +1,2 @@
+# TrothThemeForDiscord
+Mytheme
