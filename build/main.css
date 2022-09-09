@@ -1016,10 +1016,6 @@ body {
     box-shadow: inset 0 0 0 1000000px rgba(255, 255, 255, .15) !important
 }
 
-.lookInverted-2mDUMi .contents-3ca1mk {
-    background: -webkit-linear-gradient(var(--themeColor1), var(--themeColor2));
-    -webkit-background-clip: text;
-    -webkit-text-fill-color: transparent
 }
 
 .lookFilled-yCfaCM.colorPrimary-2AuQVo {
