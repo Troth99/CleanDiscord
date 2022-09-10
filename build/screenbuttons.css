@@ -10,7 +10,7 @@
     background-color: var(--themeColor1);
     background-image: linear-gradient(to bottom right, var(--themeColor1), var(--themeColor2));
     border: none;
-    color: #fff
+    color: var(--video-screen-button-background-hover-color)
 }
 
 .bd-addon-list .bd-card-footer button:hover,
@@ -37,7 +37,7 @@
 .lookFilled-yCfaCM.colorPrimary-2AuQVo:hover {
     background-color: var(--backgroundColor) !important;
     box-shadow: inset 0 0 0 1000000px rgba(255, 255, 255, .05);
-    color: #fff
+    color: var(--video-screen-button-foreground-hover-color)
 }
 
 .lookOutlined-3yKVGo.colorGreen-3y-Z79 {
