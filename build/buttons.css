@@ -22,13 +22,13 @@
 .lookGhost-2Fn_0-.colorBrand-I6CyqQ:hover,
 .lookGhost-2Fn_0-.colorGrey-2iAG-B:hover,
 .lookOutlined-3yKVGo.colorBrand-I6CyqQ:hover {
-    background-color: var(--video-screen-button-foreground-color) !important;
+    background-color: var(--video-screen-button-foreground-hovor-color) !important;
     box-shadow: inset 0 0 0 1000000px rgba(255, 255, 255, .15) !important
 }
 
 
 .lookFilled-yCfaCM.colorPrimary-2AuQVo {
-    background-color: var(--video-screen-button-background-hovor-color) !important;
+    background-color: var(--video-screen-button-foreground-color) !important;
     color: #fff
 }
 
