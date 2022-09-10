@@ -22,7 +22,7 @@
 .lookGhost-2Fn_0-.colorBrand-I6CyqQ:hover,
 .lookGhost-2Fn_0-.colorGrey-2iAG-B:hover,
 .lookOutlined-3yKVGo.colorBrand-I6CyqQ:hover {
-    background-color: var(--video-screen-button-background-hover-color) !important;
+    background-color: var(--themeColor2) !important;
     box-shadow: inset 0 0 0 1000000px rgba(255, 255, 255, .15) !important
 }
 
