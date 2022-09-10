@@ -18,10 +18,7 @@
 .bd-modal-wrapper .footer button:hover,
 .bd-pfbtn:hover,
 .lookFilled-yCfaCM.colorBrand-I6CyqQ:hover,
-.buttonColor-3bP3fX:hover{background-color:var(--video-screen-button-background-hovor-color);color:var(--video-screen-button-foreground-hovor-color)}
-.lookFilled-yCfaCM.colorGrey-2iAG-B:hover,
-.lookGhost-2Fn_0-.colorBrand-I6CyqQ:hover,
-.lookGhost-2Fn_0-.colorGrey-2iAG-B:hover,
+.buttonColor-3bP3fX:hover{background-color:var(--video-screen-button-background-hovor-color);color:var(--video-screen-button-foreground-hovor-color)},
 .lookOutlined-3yKVGo.colorBrand-I6CyqQ:hover {
     background-color: var(--video-screen-button-background-hover-color) !important;
     box-shadow: inset 0 0 0 1000000px rgba(255, 255, 255, .15) !important
