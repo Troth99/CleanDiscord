@@ -12,19 +12,6 @@
     border: none;
     color: #fff
 }
-
-.lookFilled-yCfaCM.colorPrimary-2AuQVo {
-    background-color: var(--backgroundColor) !important;
-    color: #fff
-}
-
-.lookFilled-yCfaCM.colorPrimary-2AuQVo:active,
-.lookFilled-yCfaCM.colorPrimary-2AuQVo:hover {
-    background-color: var(--backgroundColor) !important;
-    box-shadow: inset 0 0 0 1000000px rgba(255, 255, 255, .05);
-    color: #fff
-}
-
 .lookOutlined-3yKVGo.colorGreen-3y-Z79 {
     color: #3c3;
     border-color: #3c3
