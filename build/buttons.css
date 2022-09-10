@@ -1,3 +1,18 @@
+..bd-addon-list .bd-card-footer button,
+.bd-button,
+.bd-modal-wrapper .footer button,
+.bd-pfbtn,
+.lookFilled-yCfaCM.colorBrand-I6CyqQ,
+.lookFilled-yCfaCM.colorGrey-2iAG-B,
+.lookGhost-2Fn_0-.colorBrand-I6CyqQ,
+.lookGhost-2Fn_0-.colorGrey-2iAG-B,
+.lookOutlined-3yKVGo.colorBrand-I6CyqQ {
+    background-color: var(--video-screen-button-background-color);
+    background-image: linear-gradient(to bottom right, var(--themeColor1), var(--themeColor2));
+    border: none;
+    color: #fff
+}
+
 .bd-addon-list .bd-card-footer button:hover,
 .bd-button:hover,
 .bd-modal-wrapper .footer button:hover,
