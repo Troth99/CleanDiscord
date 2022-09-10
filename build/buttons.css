@@ -47,7 +47,7 @@ bd-addon-list .bd-card-footer button,
 .lookGhost-2Fn_0-.colorBrand-I6CyqQ:hover,
 .lookGhost-2Fn_0-.colorGrey-2iAG-B:hover,
 .lookOutlined-3yKVGo.colorBrand-I6CyqQ:hover {
-    background-color: var(--themeColor1) !important;
+    background-color: var(--video-screen-button-background-hover-color) !important;
     box-shadow: inset 0 0 0 1000000px rgba(255, 255, 255, .15) !important
 }
 
@@ -58,13 +58,13 @@ bd-addon-list .bd-card-footer button,
 }
 
 .lookFilled-yCfaCM.colorPrimary-2AuQVo {
-    background-color: var(--backgroundColor) !important;
+    background-color: var(--main-theme-color) !important;
     color: #fff
 }
 
 .lookFilled-yCfaCM.colorPrimary-2AuQVo:active,
 .lookFilled-yCfaCM.colorPrimary-2AuQVo:hover {
-    background-color: var(--backgroundColor) !important;
+    background-color: var(--video-screen-button-foreground-hover-color) !important;
     box-shadow: inset 0 0 0 1000000px rgba(255, 255, 255, .05);
     color: #fff
 }
@@ -77,14 +77,4 @@ bd-addon-list .bd-card-footer button,
 .lookFilled-yCfaCM.colorGreen-3y-Z79 {
     background-color: #3c3;
     background-image: linear-gradient(to bottom right, #3c3, #0c0)
-}
-
-.pageControlContainer-3czZwE .lookFilled-yCfaCM.colorTransparent-13Bvvi:disabled {
-    background-color: var(--backgroundColor);
-    opacity: .85
-}
-
-.pageControlContainer-3czZwE .lookFilled-yCfaCM.colorTransparent-13Bvvi:hover {
-    background-color: var(--backgroundColor);
-    box-shadow: 0 2px 20px 0 rgba(0, 0, 0, .9)
 }
