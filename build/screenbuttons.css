@@ -12,10 +12,6 @@
     border: none;
     color: #fff
 }
-.lookOutlined-3yKVGo.colorGreen-3y-Z79 {
-    color: #3c3;
-    border-color: #3c3
-}
 
 .lookFilled-yCfaCM.colorGreen-3y-Z79 {
     background-color: #3c3;
@@ -36,9 +32,5 @@
  .button-1EGGcP.buttonColor-3bP3fX:hover,
  .button-1EGGcP 
  .buttonColor-3bP3fX:hover{background-color:var(--video-screen-button-background-hovor-color);color:var(--video-screen-button-foreground-hovor-color)}
- .wrapper-2RrXDg{background-color:rgba(200,200,200,.1)}
- .theme-dark 
- .inset-SbsSFp{background-color:rgba(200,200,200,.1)}
- .emptyCard-KDifrB{background:0 0}
- .actionButton-3-B2x-{background-color:initial}
- .lookFilled-yCfaCM.colorPrimary-3b3xI6 {color:#f6f6f7;background-color:rgba(200,200,200,.2)}
+
+
