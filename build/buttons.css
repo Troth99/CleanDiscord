@@ -49,11 +49,3 @@
     background-image: linear-gradient(to bottom right, #3c3, #0c0)
 
 }
-    .tutorialContainer-2sGCg9 
-    .listItem-GuPuDH{right:5px}
-    .button-1EGGcP.buttonColor-3bP3fX,
-    .button-1EGGcP 
-    .buttonColor-3bP3fX{background-color:var(--video-screen-button-background-color);color:var(--video-screen-button-foreground-color)}
-    .button-1EGGcP.buttonColor-3bP3fX:hover,
-    .button-1EGGcP 
-    .buttonColor-3bP3fX:hover{background-color:var(--video-screen-button-background-hover-color);color:var(--video-screen-button-foreground-hover-color)}
