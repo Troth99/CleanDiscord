@@ -1,6 +1,29 @@
-.tutorialContainer-2sGCg9 .listItem-GuPuDH{right:5px}.button-1EGGcP.buttonColor-3bP3fX,
-.button-1EGGcP 
-.buttonColor-3bP3fX{background-color:var(--video-screen-button-background-color);color:var(--video-screen-button-foreground-color)}
-.button-1EGGcP
-.buttonColor-3bP3fX:hover,.button-1EGGcP 
-.buttonColor-3bP3fX:hover{background-color:var(--video-screen-button-background-hovor-color);color:var(--video-screen-button-foreground-hovor-color)}
+.pageControlContainer-3czZwE .lookFilled-yCfaCM.colorTransparent-13Bvvi {
+    background-color: var(--video-screen-button-background-color);
+    box-shadow: 0 2px 15px 0 rgba(0, 0, 0, .7)
+}
+
+.pageControlContainer-3czZwE .lookFilled-yCfaCM.colorTransparent-13Bvvi:disabled {
+    background-color: var(--backgroundColor);
+    opacity: .85
+}
+
+.pageControlContainer-3czZwE .lookFilled-yCfaCM.colorTransparent-13Bvvi:hover {
+    background-color: var(--video-screen-button-background-hovor-color);
+    box-shadow: 0 2px 20px 0 rgba(0, 0, 0, .9)
+}
+
+.pageControlContainer-3czZwE .activeButton-1BJAiN,
+.pageControlContainer-3czZwE .activeButton-1BJAiN:hover {
+    background-color: var(--video-screen-button-foreground-hovor-color);
+    box-shadow: 0 2px 15px 0 rgba(0, 0, 0, .5)
+}
+
+.pageControlContainer-3czZwE .roundButton-2CW1Hh {
+    transition: background-color .1s ease;
+    border-radius: 6px
+}
+
+.pageControlContainer-3czZwE .pageButton-MknE-_:hover {
+    background-color: var(--backgroundColor)
+}
