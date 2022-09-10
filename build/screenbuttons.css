@@ -10,7 +10,7 @@
     background-color: var(--themeColor1);
     background-image: linear-gradient(to bottom right, var(--themeColor1), var(--themeColor2));
     border: none;
-    color: var(--video-screen-button-background-color)
+    color: var(--video-screen-button-foreground-color)
 }
 
 .bd-addon-list .bd-card-footer button:hover,
