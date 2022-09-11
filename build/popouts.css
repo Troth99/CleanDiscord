@@ -18,10 +18,12 @@
 .topSectionSpotify-1lI0-P{background:var(--big-user-popout-background-transparency)}
 .topSectionStreaming-1Tpf5X{background:var(--big-user-popout-background-transparency)}
 .body-1Ukv50{background-color:var(--big-user-popout-background-transparency)}
-.scroller-1bVxF5{background-position:var(--profile-user-popout-background-image-position);background-image:var(--profile-user-popout-background-image);background-color:initial}
-.profileBody-3QbfPe{background-color:var(--profile-user-popout-background-transparency)}
-.profileBody-3QbfPe{background:var(--profile-user-popout-background-image)};background-position:var(--profile-user-popout-background-image)
-.activityUserPopout-2MzGCj{background:var(--profile-user-popout-background-image)};background-position:var(--profile-user-popout-background-image)
-.activity-1gTu-L{background-color:var(--profile-user-popout-background-transparency)}
 
-.bodyInnerWrapper-2bQs1k{background:var(--profile-user-popout-background-image)};background-position:var(--profile-user-popout-background-image)}
+.bodyInnerWrapper-2bQs1k{padding-right:0;background-color:rgba(0,0,0,0)}
+.input-2z42oC{background-color:rgba(0,0,0,0)}
+.input-2z42oC:focus,
+.input-2z42oC
+.focused-1AtTHC{border-color:var(--themeColor1)}
+.loadingPopout-1feYe_{background-color:var(--backgroundImage);border-radius:16px}
+.userPopout-3fydSP>div:not(.userPopoutInnerWithTheme-71l1ON) 
+.avatar-2Vndt_,.avatar-2OC07D{background-color:rgba(0,0,0,0);border-color:rgba(0,0,0,0)}
