@@ -27,3 +27,26 @@
 .loadingPopout-1feYe_{background-color:var(--backgroundImage);border-radius:16px}
 .userPopout-3fydSP>div:not(.userPopoutInnerWithTheme-71l1ON) 
 .avatar-2Vndt_,.avatar-2OC07D{background-color:rgba(0,0,0,0);border-color:rgba(0,0,0,0)}
+scrollerBase-_bVAAt{background-color:var(--middle-shading)}
+.modalTitle-2skSKy{background:var(--header-shading);margin-bottom:0}
+.modalSubtitle-2lx7qk{background:var(--header-shading);padding-top:5px}
+.guildSidebar-UHnQqs{background-color:var(--side-shading)}
+.main-jX9p1r.root-g14mjS{background-color:var(--middle-shading)}
+.body-2rDNbs .content-2BDyq1{margin-left:0}
+.body-2rDNbs .header-DRA95Q{color:var(--red-color)}
+.animation-17phMk{display:none}.toolbar-37BrJ5{background-color:var(--backgroundImage);box-shadow:none;-webkit-backdrop-filter:blur(5px);backdrop-filter:blur(5px)}
+.toolbar-37BrJ5:before{border-top-color:var(--card-background)}.quickswitcher-pKcM9U{box-shadow:none;background-color:var(--middle-shading)}
+.input-3r5zZY{box-shadow:none;background-color:var(--card-background)}
+.scroller-2qwVWY{background-color:rgba(0,0,0,0)}
+.scroller-2qwVWY::-webkit-scrollbar-track{background-color:rgba(0,0,0,0) !important}
+.autocomplete-3NRXG8{box-shadow:none}
+.autocomplete-3NRXG8 .scroller-2MALzE{background-color:var(--middle-shading);-webkit-backdrop-filter:blur(5px);backdrop-filter:blur(5px)}
+.autocomplete-3NRXG8 .categoryHeader-OpJ1Ly{background-color:var(--card-background)}
+.autocompleteInner-y1mjDl{-webkit-backdrop-filter:blur(5px);backdrop-filter:blur(5px)}
+.rail-1BiMhk{background-color:var(--side-shading);-webkit-backdrop-filter:blur(5px);backdrop-filter:blur(5px)}
+.mask-899QXq>foreignObject{-webkit-mask:none;mask:none}.maskBackground-F7QD-A{background-color:var(--backgroundImage);border-radius:4px}
+.containerBackground-Ang24O{background-color:var(--backgroundImage);border:1px solid var(--primary-color);box-shadow:none;-webkit-backdrop-filter:blur(5px);backdrop-filter:blur(5px)}
+.containerBackground-Ang24O:after{content:none}:is(.icon-2PhspP,.bannerIcon-1AJ6ir) path[fill="#ED4245"]{fill:var(--red-color)}
+.spamBanner-1auiob{background-color:var(--header-shading);-webkit-backdrop-filter:blur(2px);backdrop-filter:blur(2px)}
+.toast-q3Y4wI{background-color:var(--backgroundImaged);border-radius:var(--border-radius)}
+.icon-2QUmmw path[fill="#3BA55C"]{fill:var(--green-color)}.icon-2QUmmw path[fill="#ED4245"]{fill:var(--red-color)}
