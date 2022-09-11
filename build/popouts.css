@@ -11,7 +11,7 @@
 .profileBadges-31rDHI{background-color:var(--message-box-transparency)}
 .profileCustomizationPreview-2-Y173{background:rgba(0,0,0,.2)}
 .overlayBackground-H1K9ZY,.profileBadges-1GBCVy{background-color:rgba(0,0,0,.4)}
-.textarea-_59yqs:focus{background-color:var(--message-box-transparency)}
+.textarea-_59yqs:focus{background-color:rgba(0,0,0,.4)}
 .root-8LYsGj{background-position:var(--big-user-popout-background-image-position);background-image:var(--big-user-popout-background-image);background-color:initial}
 .topSection-13QKHs{background-color:var(--big-user-popout-background-transparency)}
 .topSectionPlaying-1J5E4n{background:var(--big-user-popout-background-transparency)}
@@ -25,4 +25,12 @@
 .userInfoSection-3her-v{background-color:var(--message-box-transparency)}
 .userInfoSection-3her-v{background-color:var(--big-user-popout-background-image)}
 .bodyInnerWrapper-2bQs1k{background-corlo:var(--big-user-popout-background-image)}
+
+.activityUserPopout-2MzGCj .content-tXPNDw,
+.activityUserPopout-2MzGCj .details-2-ciHo,
+.activityUserPopout-2MzGCj .headerText-3g1XK9,
+.activityUserPopout-2MzGCj .name-1-Q7l2 {
+    text-shadow: 0 2px 0 rgba(0, 0, 0, .7);
+    color: #fff !important
+}
 
