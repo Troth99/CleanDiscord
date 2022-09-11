@@ -20,8 +20,11 @@
 .body-1Ukv50{background-color:var(--big-user-popout-background-transparency)}
 
 .scroller-1bVxF5{background-position:var(--big-user-popout-background-image-position);background-image:var(--big-user-popout-background-image);background-color:initial}
+.profileBody-3QbfPe{background-color:var(--big-user-popout-background-transparency)}
 .profileBody-3QbfPe{background-color:var(--big-user-popout-background-image)}
 .userInfoSection-3her-v{background-color:var(--message-box-transparency)}
-.activityUserPopout-2MzGCj activity-1gTu-L{background:var(--big-user-popout-background-image)}
+.activityUserPopout-2MzGCj{background:var(--big-user-popout-background-image)}
+.activityUserPopout-2MzGCj{background:var(--big-user-popout-background-transparency)}
 .userInfoSection-3her-v{background-color:var(--big-user-popout-background-image)}
+.bodyInnerWrapper-2bQs1k{background:var(--big-user-popout-background-image)}
 
