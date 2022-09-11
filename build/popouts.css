@@ -24,7 +24,4 @@
 .activityUserPopout-2MzGCj{background:var(--profile-user-popout-background-image)};background-position:var(--profile-user-popout-background-image)
 .activity-1gTu-L{background-color:var(--profile-user-popout-background-transparency)}
 
-.bodyInnerWrapper-2bQs1k,
-.headerTop-3GPUSF {
-  background: transparent;
-}
+.bodyInnerWrapper-2bQs1k{background:var(--profile-user-popout-background-image)};background-position:var(--profile-user-popout-background-image)}
