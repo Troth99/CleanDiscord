@@ -23,3 +23,8 @@
 .profileBody-3QbfPe{background:var(--big-user-popout-background-image)}
 .activityUserPopout-2MzGCj{background:var(--big-user-popout-background-image)}
 .activity-1gTu-L{background-color:var(--big-user-popout-background-transparency)}
+
+.bodyInnerWrapper-2bQs1k,
+.headerTop-3GPUSF {
+  background: transparent;
+}
