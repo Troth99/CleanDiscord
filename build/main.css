@@ -82,6 +82,19 @@ body {
     box-shadow: none !important
 }
 
+.platform-win .sidebar-1tnWFu {
+    border-radius: 8px 0 0;
+    overflow: hidden;
+    box-shadow: inset 2000px 0 0 0 rgb(0 0 0 / 50%);
+    border-color: rgba(0, 0, 0, 1);
+}
+.members-3WRCEx, .members-3WRCEx>div {
+    background-color: var(--background-secondary);
+    box-shadow: inset 2000px 0 0 0 rgb(0 0 0 / 28%);
+    border-color: rgba(0, 0, 0, 1);
+}
+
+
 .tutorialContainer-1pL9QS .childWrapper-1j_1ub {
     background-color: transparent;
     background-position: center;
