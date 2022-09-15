@@ -46,5 +46,44 @@
     background-image: linear-gradient(to bottom right, #3c3, #0c0)
 
 }
+button.button-f2h6uQ.lookFilled-yCfaCM.colorBrand-I6CyqQ.sizeSmall-wU2dO-.grow-2sR_-F {
+transition: 0.4s, background-position 0s;
+    --p: 100%;
+    height: 10;
+    margin: 0;
+    display: grid;
+    gap: 20px;
+    cursor: pointer;
+    font-size: 16px;
+    border-radius: 50px;
+
+}
+button.button-f2h6uQ.lookFilled-yCfaCM.colorBrand-I6CyqQ.sizeSmall-wU2dO-.grow-2sR_-F:hover
+   {
+    transition: all .1s ease;
+
+    border: 3px solid white;
+    text-align: center;
+    background-color : transparent;
+    border-radius: 4px; 
+    color: #000000;
+    background-color: #fff;
+    background-color:transparent;
+    box-shadow: 0 0 50px rgb(151, 5, 248);
+    
+   }
+.lookOutlined-3yKVGo.colorRed-rQXKgM:hover
+{
+    background: #030303;
+	color:rgb(252, 5, 5);
+
+  font-weight: bold;
+  box-shadow: 0 0 50px rgb(23, 243, 243);
+    text-transform: uppercase;
+    text-decoration: none;
+    display: inline-block;
+    border-radius: 100px;
+    transition: all .2s;
+}
 
 
