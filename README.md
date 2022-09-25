@@ -1,2 +1,2 @@
-# TrothThemeForDiscord
+# CleanDiscord
 Mytheme
