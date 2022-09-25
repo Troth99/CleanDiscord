@@ -308,3 +308,7 @@ html .typingindicator-folder {
 .wrapper-1_HaEi .wrapper-38slSD [role="group"][style="height: 5600px;"] {
 	height: unset !important;
 }
+.item-2LIpTv
+{
+    animation:var(--unread-server-animation)3s linear infinite;border:2px solid var(--main-theme-color);background:0 0;border-radius:100%;display:block;margin-left:0;margin-top:0;position:absolute;top:-2px;right:3px!important;width:48px;height:48px!important;transform:none!important
+}
