@@ -50,4 +50,8 @@
     overflow: hidden;
     background-image: var(--profile-user-popout-background-image);
     background-position: var(--profile-user-popout-background-image-position);
+     margin-left: auto;
+    margin-right: auto;
+    margin-bottom: auto;
+}
 }
