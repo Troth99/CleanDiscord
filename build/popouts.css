@@ -25,3 +25,26 @@
 .activityUserPopout-2MzGCj{background-position:var(--profile-user-popout-background-image-position);background-image:var(--profilel-user-popout-background-image)}
 .activity-1gTu-L{background-color:var(--profile-user-popout-background-transparency)}
 .bodyInnerWrapper-2bQs1k{background:var(--profile-user-background-image)}
+
+.overlayBackground-2Zjm9f {
+    position: relative;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: auto;
+}
+.overlayBackground-2Zjm9f {
+    position: relative;
+    background-color: var(--profile-body-background-color);
+    border-radius: 8px;
+    max-height: calc(100vh - 128px);
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-box-orient: vertical;
+    -webkit-box-direction: normal;
+    -ms-flex-direction: column;
+    flex-direction: column;
+    overflow: hidden;
+    background-position: var(--profile-user-popout-background-image-position);
+    background-image: var(--profile-user-popout-background-image);
+}
