@@ -39,6 +39,7 @@
     flex-grow: 1;
     border-radius: 8px 8px 0 0;
     max-height: calc(100vh - 28px);
+}
 .overlayBackground-2Zjm9f {
     position: relative;
     margin: 28px 16px 16px;
