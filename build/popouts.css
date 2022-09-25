@@ -28,13 +28,8 @@
 
 .overlayBackground-2Zjm9f {
     position: relative;
-    margin-left: auto;
-    margin-right: auto;
-    margin-bottom: auto;
-}
-.overlayBackground-2Zjm9f {
-    position: relative;
-    background-color: var(--profile-body-background-color);
+    margin: 28px 16px 16px;
+    ound-color: var(--profile-body-background-color);
     border-radius: 8px;
     max-height: calc(100vh - 128px);
     display: -webkit-box;
@@ -45,6 +40,6 @@
     -ms-flex-direction: column;
     flex-direction: column;
     overflow: hidden;
-    background-position: var(--profile-user-popout-background-image-position);
     background-image: var(--profile-user-popout-background-image);
+    background-position: var(--profile-user-popout-background-image-position);
 }
