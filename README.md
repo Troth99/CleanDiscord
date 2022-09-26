@@ -2,7 +2,7 @@
 Thats my first discord theme, able for customisation.
 
 First install better discord from https://betterdiscord.app/
-Download the theme from the link below and paste is in discord> user sething > Themes > Open Themes folder.
+Download the theme from the link below and paste it in discord > user sething > Themes > Open Themes folder.
 
 
 <p> This is the link for the discord theme </p>
