@@ -119,7 +119,7 @@
     }
 
 
-element.style {
+.element.style {
     overflow: hidden scroll;
     padding-right: 0px;
     background-image: var;
