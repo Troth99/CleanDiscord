@@ -83,20 +83,38 @@
     .headerNormal-1l1Znk {
         background-color: var(--small-user-popout-background-transparency)
     }
-.overlayBackground-2Zjm9f {
-    position: relative;
-    ound-color: var(--profile-body-background-color);
-    border-radius: 8px;
-    max-height: calc(100vh - 128px);
-    display: -webkit-box;
-    display: -ms-flexbox;
-    display: flex;
-    -webkit-box-orient: vertical;
-    -webkit-box-direction: normal;
-    -ms-flex-direction: column;
-    flex-direction: column;
-    overflow: hidden;
-    background-image: var(--profile-user-popout-background-image);
-    background-position: var(--profile-user-popout-background-image-position);
+    .userPopoutOverlayBackground-dKOOda {
+        margin: 28px 16px 16px;
+        max-height: calc(100vh - 128px);
+    }
 
-}
+    .overlayBackground-1KgwVi {
+        position: relative;
+        background-color: var(--profile-body-background-color);
+        border-radius: 8px;
+        display: -webkit-box;
+        display: -ms-flexbox;
+        display: flex;
+        -webkit-box-orient: vertical;
+        -webkit-box-direction: normal;
+        -ms-flex-direction: column;
+        flex-direction: column;
+        overflow: hidden;
+        background-image: var(--profile-user-popout-background-image);
+        background-position: var(--profile-user-popout-background-image-position);
+    }
+
+    .userProfileInner-3F03PX {
+        display: -webkit-box;
+        display: -ms-flexbox;
+        display: flex;
+        -webkit-box-orient: vertical;
+        -webkit-box-direction: normal;
+        -ms-flex-direction: column;
+        flex-direction: column;
+        -webkit-box-flex: 1;
+        -ms-flex-positive: 1;
+        flex-grow: 1;
+        border-radius: 8px 8px 0 0;
+    }
+
