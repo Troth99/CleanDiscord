@@ -16,21 +16,12 @@
 .topSection-13QKHs{background-color:var(--big-user-popout-background-transparency)}
 .topSectionPlaying-1J5E4n{background:var(--big-user-popout-background-transparency)}
 .topSectionSpotify-1lI0-P{background:var(--big-user-popout-background-transparency)}
+.topSectionStreaming-1Tpf5X{background:var(--big-user-popout-background-transparency)}
+.body-1Ukv50{background-color:var(--big-user-popout-background-transparency)}
 
-.overlayBackground-2Zjm9f {
-    position: relative;
-    ound-color: var(--profile-body-background-color);
-    border-radius: 8px;
-    max-height: calc(100vh - 128px);
-    display: -webkit-box;
-    display: -ms-flexbox;
-    display: flex;
-    -webkit-box-orient: vertical;
-    -webkit-box-direction: normal;
-    -ms-flex-direction: column;
-    flex-direction: column;
-    overflow: hidden;
-    background-image: var(--profile-user-popout-background-image);
-    background-position: var(--profile-user-popout-background-image-position);
-
-}
+.scroller-1bVxF5{background-position:var(--small-user-popout-background-image-position);background-image:var(--small-user-popout-background-image);background-color:initial}
+.profileBody-3QbfPe{background-color:var(--small-user-popout-background-transparency)}
+.profileBody-3QbfPe{background:var(--big-user-popout-background-image)}
+.activityUserPopout-2MzGCj{background:var(--big-user-popout-background-image)}
+.activity-1gTu-L{background-color:var(--big-user-popout-background-transparency)}
+.bodyInnerWrapper-2bQs1k{background:var(--profile-user-background-image)}
