@@ -104,38 +104,5 @@
         background-position: var(--profile-user-popout-background-image-position);
     }
 
-.scroller-1bVxF5 {
-    padding: 6px 8px;
-}
-.div[Attributes Style] {
-    direction: ltr;
-    unicode-bidi: isolate;
-}
-.menu-1QACrS {
-    position: relative;
-    z-index: 1;
-    -webkit-box-sizing: border-box;
-    box-sizing: border-box;
-    display: -webkit-box;
-    display: -ms-flexbox;
-    display: flex;
-    height: auto;
-    cursor: default;
-    max-height: calc(100vh - 32px);
-    -webkit-box-shadow: var(--elevation-high);
-    box-shadow: var(--elevation-high);
-    background: var(--background-floating);
-    border-radius: 4px;
-    background-image: var(--small-user-popout-background-image);
-    background-position: var(--small-user-popout-background-image-position);
-}
-
-.element.style {
-    overflow: hidden scroll;
-    padding-right: 0px;
-    background-image: var;
-    background-image: var(--small-user-popout-background-image);
-    background-position: var(--small-user-popout-background-image-position);
-}
 
 
