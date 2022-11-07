@@ -2133,6 +2133,6 @@ div[aria-label=GUILD_SETTINGS] .topPill-3DJJNV .themed-2-lozF.selected-g-kMVV.it
     width: 48px;
 }
 .categoryItem-3zFJns .itemInner-3gVXMG, .clickable-28SzVr, .layout-1qmrhw {
-    transition: all .2s ease;
+    transition: all;
     background-color: transparent;
 }
