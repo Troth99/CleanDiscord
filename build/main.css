@@ -224,6 +224,12 @@ body {
     border-color: var(--themeColor1)
 }
 
+.categoryItem-3zFJns .itemInner-3gVXMG,
+.clickable-28SzVr,
+.layout-1qmrhw {
+    transition: all .2s ease
+}
+
 .categoryItem-3zFJns.selectedCategoryItem-3X8ujp .itemInner-3gVXMG,
 .clickable-28SzVr:hover .layout-1qmrhw,
 .selected-1-Z6gm .layout-1qmrhw {
@@ -231,7 +237,6 @@ body {
     position: relative;
     padding-left: 15px;
     background-color: transparent
-     
 }
 
 .selected-1-Z6gm .layout-1qmrhw::before {
