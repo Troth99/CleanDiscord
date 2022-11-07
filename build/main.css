@@ -227,8 +227,8 @@ body {
 .categoryItem-3zFJns .itemInner-3gVXMG,
 .clickable-28SzVr,
 .layout-1qmrhw {
+    background-color: transparent
     transition: all .2s ease
-    background-color: transparent;
 }
 
 .categoryItem-3zFJns.selectedCategoryItem-3X8ujp .itemInner-3gVXMG,
