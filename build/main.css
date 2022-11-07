@@ -229,7 +229,9 @@ body {
 .selected-1-Z6gm .layout-1qmrhw {
     background: rgba(0, 0, 0, .65);
     position: relative;
-    padding-left: 15px
+    padding-left: 15px;
+    background-color: transparent
+     
 }
 
 .selected-1-Z6gm .layout-1qmrhw::before {
@@ -2131,8 +2133,4 @@ div[aria-label=GUILD_SETTINGS] .topPill-3DJJNV .themed-2-lozF.selected-g-kMVV.it
     background-size: var(--backgroundSize);
     height: 48px;
     width: 48px;
-}
-.categoryItem-3zFJns .itemInner-3gVXMG, .clickable-28SzVr, .layout-1qmrhw {
-    transition: all;
-    background-color: transparent;
 }
