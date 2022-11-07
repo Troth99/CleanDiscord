@@ -224,13 +224,6 @@ body {
     border-color: var(--themeColor1)
 }
 
-.categoryItem-3zFJns .itemInner-3gVXMG,
-.clickable-28SzVr,
-.layout-1qmrhw {
-    background-color: transparent;
-    transition: all .2s ease
-}
-
 .categoryItem-3zFJns.selectedCategoryItem-3X8ujp .itemInner-3gVXMG,
 .clickable-28SzVr:hover .layout-1qmrhw,
 .selected-1-Z6gm .layout-1qmrhw {
@@ -2138,4 +2131,8 @@ div[aria-label=GUILD_SETTINGS] .topPill-3DJJNV .themed-2-lozF.selected-g-kMVV.it
     background-size: var(--backgroundSize);
     height: 48px;
     width: 48px;
+}
+.categoryItem-3zFJns .itemInner-3gVXMG, .clickable-28SzVr, .layout-1qmrhw {
+    transition: all .2s ease;
+    background-color: transparent;
 }
