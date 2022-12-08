@@ -946,6 +946,7 @@
     --search-popout-date-picker-hint-value-background-hover: var(--brand-experiment-430);
     
     .profileColors-3Y0XaR {
+    --profile-gradient-primary-color: none;
     --profile-gradient-secondary-color: var(--background-secondary-alt);
     --profile-gradient-primary-color: var(--background-color);
     --profile-gradient-primary-color: var(--background-image);
