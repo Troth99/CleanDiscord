@@ -119,3 +119,17 @@
         flex-grow: 1;
         border-radius: 8px 8px 0 0;
     }
+.profileColors-3Y0XaR {
+   -profile-gradient-primary-color: var(--background-secondary-alt);
+   -profile-gradient-secondary-color: var(--background-secondary-alt);
+   -profile-gradient-overlay-color: transparent;
+   -profile-gradient-button-color: var(--button-secondary-background);
+   -profile-avatar-border-color: var(--background-secondary-alt);
+   -profile-message-input-border-color: var(--background-modifier-accent);
+   -profile-body-background-color: var(--background-floating);
+   -profile-body-background-hover: var(--background-modifier-hover);
+   -profile-body-divider-color: var(--background-modifier-accent);
+   -profile-role-pill-background-color: var(--background-secondary-alt);
+   -profile-role-pill-border-color: var(--interactive-normal);
+   -account-profile-popout-menu-hover: var(--brand-experiment-560)
+}
