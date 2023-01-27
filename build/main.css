@@ -191,6 +191,12 @@ body {
     animation-timing-function: ease-in-out;
     animation-iteration-count: infinite
 }
+        
+    .chatContent-3KubbW {
+    background: transparent;
+}
+
+}
 
 @keyframes pulseVoiceChat {
     0% {
